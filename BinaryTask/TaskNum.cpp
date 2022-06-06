@@ -1,0 +1,23 @@
+enum TaskNum
+{
+	Task_A,
+	Task_B,
+	Task_C,
+	Task_D,
+	Task_E,
+	Task_F,
+	Task_G,
+	Task_I,
+	Task_J,
+	Task_K,
+	Task_L,
+	Task_M,
+	Task_N,
+	Task_O,
+	Task_P,
+	Task_Q,
+	Task_R,
+	Task_S,
+	Task_T,
+	Task_ZA
+};
